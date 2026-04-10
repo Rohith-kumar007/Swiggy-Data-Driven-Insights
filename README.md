@@ -6,9 +6,8 @@
 
 ## 📊 Dashboard Preview  
 
-<p align="center">
-  <img src="assets/dashboard.png" width="900">
-</p>
+![WhatsApp Image 2026-04-10 at 12 05 44](https://github.com/user-attachments/assets/4da8e913-8be7-4b28-ae1d-9b11d3ff7e84)
+
 
 ---
 
