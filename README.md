@@ -22,9 +22,9 @@ We have recently added a fully interactive web dashboard built with **Streamlit*
 
 ---
 
-## 📊 Static Dashboard Preview  
+## 📊 Dashboard Preview  
 
-![WhatsApp Image 2026-04-10 at 12 05 44](https://github.com/user-attachments/assets/4da8e913-8be7-4b28-ae1d-9b11d3ff7e84)
+![Streamlit Dashboard](assests/streamlit_dashboard.png)
 
 
 ---
