@@ -4,7 +4,25 @@
 
 ---
 
-## 📊 Dashboard Preview  
+## 🌟 Interactive Streamlit Dashboard (NEW!)
+
+We have recently added a fully interactive web dashboard built with **Streamlit**. This allows anyone visiting the repository to visually explore restaurant data, apply filters, and see dynamic visual insights.
+
+### How to Run the Streamlit Dashboard Locally
+1. Ensure you have Python installed.
+2. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the dashboard:
+   ```bash
+   streamlit run app.py
+   ```
+4. It will automatically open in your default web browser!
+
+---
+
+## 📊 Static Dashboard Preview  
 
 ![WhatsApp Image 2026-04-10 at 12 05 44](https://github.com/user-attachments/assets/4da8e913-8be7-4b28-ae1d-9b11d3ff7e84)
 
@@ -32,6 +50,7 @@ This project demonstrates how **data analytics transforms raw restaurant data in
 - Plotly (Interactive Visualization)  
 - Statsmodels (Time Series Analysis)  
 - Jupyter Notebook  
+- **Streamlit** (Web Dashboard)
 
 ---
 
